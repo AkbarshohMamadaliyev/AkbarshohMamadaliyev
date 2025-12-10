@@ -1,6 +1,7 @@
 ## 👋 Hi, I'm Akbarshoh, Fullstack Dev | React Enthusiast 👨‍💻
 
-🧠 My Favorite Stack
+🧠 My Favorite Stack:
+
 React, Next.js TypeScript Tailwind CSS, Node.js
 
 ### How to reach me: <a href="akbarshokhmamadaliev@gmail.com">akbarshokhmamadaliev@gmail.com</a>
