@@ -7,6 +7,7 @@ React, Next.js TypeScript Tailwind CSS, Node.js
 🤝 Connect with Me:
 
 <a href="https://www.linkedin.com/in/akbarshoh-mamadaliyev">LinkedIn</a>
+<a href="akbarshokhmamadaliev@gmail.com">Gmail</a>
 
 <!--
 **AkbarshohMamadaliyev/AkbarshohMamadaliyev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
