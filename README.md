@@ -6,20 +6,9 @@
 
 ## 👋 Hi, I'm Akbarshoh, Fullstack Dev | React Enthusiast 👨‍💻
 
-🧠 My Favorite Stack:
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/9d1cb69f-c2ae-4950-b5e9-e41927bd4264" />
+🧠 My Favorite Stack - React, Next.js TypeScript Tailwind CSS, Node.js
 
-
-
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-<img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
-
-React, Next.js TypeScript Tailwind CSS, Node.js
-
-🤝 Connect with Me: 
-
-<a href="https://www.linkedin.com/in/akbarshoh-mamadaliyev">LinkedIn</a> | <a href="akbarshokhmamadaliev@gmail.com">Gmail</a>
+🤝 Connect with Me - <a href="https://www.linkedin.com/in/akbarshoh-mamadaliyev">LinkedIn</a> | <a href="akbarshokhmamadaliev@gmail.com">Gmail</a>
 
 <!--
 **AkbarshohMamadaliyev/AkbarshohMamadaliyev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
