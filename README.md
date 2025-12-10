@@ -7,7 +7,8 @@
 ## 👋 Hi, I'm Akbarshoh, Fullstack Dev | React Enthusiast 👨‍💻
 
 🧠 My Favorite Stack:
-[React-Dark.svg](https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg)
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/9d1cb69f-c2ae-4950-b5e9-e41927bd4264" />
+
 
 
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
