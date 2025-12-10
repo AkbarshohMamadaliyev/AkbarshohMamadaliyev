@@ -1,3 +1,9 @@
+### <h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=👋 Hi,+I'm+Akbarshoh!+;Fullstack+Dev+|+React+Enthusiast 👨‍💻&center=false&size=30">
+  </a>
+</h1>
+
 ## 👋 Hi, I'm Akbarshoh, Fullstack Dev | React Enthusiast 👨‍💻
 
 🧠 My Favorite Stack:
