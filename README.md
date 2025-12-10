@@ -1,10 +1,7 @@
 ## 👋 Hi, I'm Akbarshoh, Fullstack Dev | React Enthusiast 👨‍💻
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Fullstack Dev | React Enthusiast+👋;This+is+Akbarshoh👨‍💻&center=false&size=30">
-  </a>
-</h1>
+🧠 My Favorite Stack
+React, Next.js TypeScript Tailwind CSS, Node.js
 
 ### How to reach me: <a href="akbarshokhmamadaliev@gmail.com">akbarshokhmamadaliev@gmail.com</a>
 
