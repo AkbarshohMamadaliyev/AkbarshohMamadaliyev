@@ -4,7 +4,7 @@
 
 React, Next.js TypeScript Tailwind CSS, Node.js
 
-🤝 Connect with Me: <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/9c35f40a-81b5-4744-a768-5a0b976bd83d" />
+🤝 Connect with Me: <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/9c35f40a-81b5-4744-a768-5a0b976bd83d" />
 
 
 <a href="https://www.linkedin.com/in/akbarshoh-mamadaliyev">LinkedIn</a>
