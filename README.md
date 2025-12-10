@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-🧠 My Favorite Stack - React, Next.js TypeScript Tailwind CSS, Node.js
+🧠 <i>My Favorite Stack - React, Next.js TypeScript Tailwind CSS, Node.js</i>
 
-🤝 Connect with Me - <a href="https://www.linkedin.com/in/akbarshoh-mamadaliyev">LinkedIn</a> | <a href="akbarshokhmamadaliev@gmail.com">Gmail</a>
+🤝 <i>Connect with Me - <a href="https://www.linkedin.com/in/akbarshoh-mamadaliyev">LinkedIn</a> | <a href="akbarshokhmamadaliev@gmail.com">Gmail</a></i>
 
