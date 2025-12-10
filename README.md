@@ -4,9 +4,9 @@
   </a>
 </h1>
 
-## 👋 Hi, I'm Akbarshoh, Fullstack Dev | React Enthusiast 👨‍💻
-
 🧠 My Favorite Stack - React, Next.js TypeScript Tailwind CSS, Node.js
+
+<hr/>
 
 🤝 Connect with Me - <a href="https://www.linkedin.com/in/akbarshoh-mamadaliyev">LinkedIn</a> | <a href="akbarshokhmamadaliev@gmail.com">Gmail</a>
 
