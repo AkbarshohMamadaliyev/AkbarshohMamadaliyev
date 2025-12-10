@@ -8,9 +8,11 @@
 
 🧠 My Favorite Stack:
 
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-<img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/31d7a17f6cc7683a4382f526a4fbe0b0bff42090/topics/react/react.png" />
+<img align="left" alt="Next.js" width="26px" src="https://raw.githubusercontent.com/github/explore/1f5c688b6d6d58f9a2df0f729bcba1cf620f7ff9/topics/nextjs/nextjs.png" />
+<img align="left" alt="Tailwind CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/4c1f799a4b8dcfdbd41c2f3c9d5b8fa7b312b6a4/topics/tailwind/tailwind.png" />
+<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/4c64d6bb1b8b016d7688b004d6c6bb062b6f4451/topics/typescript/typescript.png" />
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/742e6c65a13f2bfa891c3d4d0510a7ff03805e74/topics/nodejs/nodejs.png" />
 
 React, Next.js TypeScript Tailwind CSS, Node.js
 
