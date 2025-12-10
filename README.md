@@ -1,4 +1,4 @@
-👋 Hey
+👋 <h1>Hey, there</h1>
 
 ### <h1 align="center">
   <a href="https://git.io/typing-svg">
