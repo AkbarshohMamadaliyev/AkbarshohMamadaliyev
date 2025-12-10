@@ -1,5 +1,11 @@
 ## Hi, I'm Akbarshoh👋
 
+### <h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There!+👋;This+is+Akbarshoh👨‍💻&center=false&size=30">
+  </a>
+</h1>
+
 ### How to reach me: <a href="akbarshokhmamadaliev@gmail.com">akbarshokhmamadaliev@gmail.com</a>
 
 <!--
