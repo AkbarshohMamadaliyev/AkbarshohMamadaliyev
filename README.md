@@ -18,16 +18,12 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+Akbarshoh;Frontend+Dev👨‍💻&center=true&size=25" alt="Typing SVG">
 </a>
 
----
-
 ## 💻 My Tech Stack
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white) 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white) 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) 
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwind-css&logoColor=white)
-
----
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin) 
