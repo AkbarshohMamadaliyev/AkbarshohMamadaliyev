@@ -1,4 +1,4 @@
-<!-- <h1>👋 Hi there</h1>
+<h1>👋 Hi there</h1>
 
 <h2>
   <a href="https://git.io/typing-svg">
@@ -10,24 +10,3 @@
 🧠 <i>My Favorite Stack - React, Next.js TypeScript, Node.js, Tailwind </i>
 
 🤝 <i>Connect with Me - <a href="https://www.linkedin.com/in/akbarshoh-mamadaliyev">LinkedIn</a>, <a href="akbarshokhmamadaliev@gmail.com">Gmail</a>, <a href="https://t.me/AkbarshohMamadaliyev">Telegram<a/></i>
- -->
-
-# 👋 Hi there, I'm Akbarshoh
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+Akbarshoh;Frontend+Dev👨‍💻&center=true&size=25" alt="Typing SVG">
-</a>
-
----
-
-🧠 **My Favorite Stack:** React, Next.js, TypeScript, Node.js, Tailwind CSS
-
-🤝 **Connect with Me:**  
-[LinkedIn](https://www.linkedin.com/in/akbarshoh-mamadaliyev) |  
-[Gmail](mailto:akbarshokhmamadaliev@gmail.com) |  
-[Telegram](https://t.me/AkbarshohMamadaliyev)
-
-
-
-
- 
