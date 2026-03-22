@@ -1,7 +1,7 @@
 <h1>👋 Hi there</h1>
 
 <h2>
-  <a href="https://git.io/typing-svg">
+  <a href="#">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+Akbarshoh;Frontend+Dev👨‍💻&center=false&size=25">
   </a>
 </h2>
