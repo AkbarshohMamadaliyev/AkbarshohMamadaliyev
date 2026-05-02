@@ -2,7 +2,7 @@
 
 <h2>
   <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+Akbarshoh;Frontend+Dev👨‍💻&center=false&size=25">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+Akbarshoh;Full-Stack+Dev👨‍💻&center=false&size=25">
   </a>
 </h2>
 
