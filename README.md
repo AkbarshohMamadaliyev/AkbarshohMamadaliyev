@@ -7,6 +7,6 @@
 </h2>
 
 
-🧠 <i>My Favorite Stack - React, Next.js TypeScript, Node.js</i>
+🧠 <i>My Favorite Stack - React, Next.js, TypeScript, Node.js</i>
 
 🤝 <i>Connect with Me - <a href="https://www.linkedin.com/in/akbarshoh-mamadaliyev">LinkedIn</a>, <a href="akbarshokhmamadaliev@gmail.com">Gmail</a>, <a href="https://t.me/AkbarshohMamadaliyev">Telegram<a/></i>
